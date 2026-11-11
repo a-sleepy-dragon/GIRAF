@@ -2,7 +2,8 @@
 an Agentic Index Recommendation Framework for Graph Databases 
 
 ## Here is our framework overview!
-<img width="1141" height="859" alt="Framework_overview" src="https://github.com/user-attachments/assets/a51d8eb3-93f9-4f26-be54-b1633af8970f" />
+<img width="1159" height="870" alt="g182" src="https://github.com/user-attachments/assets/10f38b5c-316c-450a-a770-f4e25bad63f5" />
+
 
 
 
