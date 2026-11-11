@@ -1,6 +1,5 @@
-# GIRAF
-an Agentic Index Recommendation Framework for Graph Databases 
-
+# GIRAF: an Agentic Index Recommendation Framework for Graph Databases 
+We propose a multi-agent approach to address the problem of index recommendation for sparse graphs.
 ## Here is our framework overview!
 <img width="1159" height="870" alt="g182" src="https://github.com/user-attachments/assets/10f38b5c-316c-450a-a770-f4e25bad63f5" />
 
@@ -58,6 +57,8 @@ pip install -r requirements.txt
 | CypherBench | https://huggingface.co/datasets/megagonlabs/cypherbench |
 | Paysim | https://www.kaggle.com/datasets/ealaxi/paysim1 | 
 | Finbench | https://ldbcouncil.org/benchmarks/finbench/datasets/ | 
+
+
 
 
 
