@@ -9,10 +9,10 @@ an Agentic Index Recommendation Framework for Graph Databases
 | Component | Version | Notes |
 |---|---|---|
 | Python | 3.9+ (tested on 3.10) | conda recommended |
-| Neo4j | Community **5.26.0** | only one user database is online at a time |
+| Neo4j | Community **5.26.0** | None |
 | JDK | 17 | required by Neo4j 5.x |
-| LLM endpoint | DeepSeek (OpenAI-compatible) | `https://api.deepseek.com/v1` |
-| Embedding model | `BAAI/bge-m3` | downloaded once from HuggingFace (local cache afterwards) |
+| LLM | DeepSeek-V4.1-Flash | `https://api.deepseek.com/v1` |
+| Embedding model | BAAI/bge-m3| download from HuggingFace |
 
 **Python packages** 
 
