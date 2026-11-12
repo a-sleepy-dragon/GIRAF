@@ -58,6 +58,10 @@ pip install -r requirements.txt
 | Paysim | https://www.kaggle.com/datasets/ealaxi/paysim1 | 
 | Finbench | https://ldbcouncil.org/benchmarks/finbench/datasets/ | 
 
+## Workload
+We open-source our workload on Hugging Face, since few off-the-shelf workloads are available and constructing them requires considerable manual effort.
+- https://huggingface.co/datasets/Willy0813/workloadofcypher/ 
+
 
 
 
